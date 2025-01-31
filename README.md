@@ -40,7 +40,7 @@ To build this project, you require:
 <img src="https://res.cloudinary.com/diixxqjcx/image/upload/v1550561234/detail.png" width="30%" vspace="10" hspace="10""><br>
 
 ## Author
-Jules Decimo
+Thomas Richardson
 
 ## License
 This project is licensed under the Apache License 2.0 - See: http://www.apache.org/licenses/LICENSE-2.0.txt
