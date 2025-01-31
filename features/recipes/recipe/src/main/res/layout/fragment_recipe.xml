@@ -41,4 +41,5 @@
             app:emptyStateImageSrc="@drawable/ic_error_page_2"/>
 
     </FrameLayout>
+    
 </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
